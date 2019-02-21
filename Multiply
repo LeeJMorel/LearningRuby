@@ -1,0 +1,11 @@
+Instructions: The code does not execute properly. Try to figure out why.
+
+def multiply(a b)
+  a * b
+end
+
+Solution:
+def multiply(a, b)
+  #arguments need to be seperated by a comma
+  a * b
+end
